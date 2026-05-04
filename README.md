@@ -31,7 +31,7 @@ GatherGo is a real-time social event planning application designed to organize m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gather-go.git
+   git clone https://github.com/LuckDay21/GatherGo.git
    cd gather-go
    ```
 
